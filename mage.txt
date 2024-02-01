@@ -1,0 +1,4 @@
+/bind F9 //stoneskin
+/bind F10 //blink
+/bind F11 //aquaveil
+/bind F12 //phalanx
