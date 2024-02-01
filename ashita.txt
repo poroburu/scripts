@@ -1,0 +1,4 @@
+/bind ^F9 /targetpc
+/bind ^F10 /fillmode
+/bind ^F11 /ambient
+/bind ^F12 /fps
