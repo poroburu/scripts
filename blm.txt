@@ -1,0 +1,12 @@
+/exec mage
+/bind delete //blizzard4
+/bind end //thunder4
+/bind pagedown //fire4
+/bind pageup //gravity
+/bind insert //sleep
+/bind home //bind
+/bind \ //stun
+/bind ] //aspir
+/bind ^g /assist
+/bind - //sleepga2
+/bind = //sleepga
